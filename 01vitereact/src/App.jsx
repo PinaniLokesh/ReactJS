@@ -1,8 +1,12 @@
-
+import React from './react.jsx'
 
 function App() {
   return (
-   <h1> React with vite</h1>
+    <>
+   <React />
+   <h2>Code</h2>
+   <p>Code is ready </p>
+   </>
   )
 }
 
