@@ -1,7 +1,12 @@
+import React from './react';
 
 function App() {
   return (
-   <h1>React</h1>
+   <>
+   <React />
+   <h2>Basic react Code</h2>
+   <p>This is basic react Code</p>
+   </>
   );
 }
 
